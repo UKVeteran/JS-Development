@@ -40,7 +40,7 @@
 - 40 - Wikipedia Search App
 - 41 - Currency Converter
 - 42 - Movie Listing App
-- 43 - Product Carousel Slider
+- 43 - Floating Action Button
 - 44 - Vertical Tabs
 - 45 - Count Up App
 - 46 - Digital Piano
