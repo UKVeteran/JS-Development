@@ -41,7 +41,7 @@
 - 41 - Currency Converter
 - 42 - Movie Listing App
 - 43 - Floating Action Button
-- 44 - Vertical Tabs
+- 44 - Vertical Timeline
 - 45 - Count Up App
 - 46 - Digital Piano
 - 47 - Form Validation
