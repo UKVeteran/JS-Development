@@ -6,9 +6,9 @@
 - 6 - Vowel Counter App
 - 7 - Click To Copy
 - 8 - Google Drive Download
-- 9 -
-- 10 -
-- 11 -
+- 9 - Input Field Character Counter
+- 10 - Internet Connection Status Detector
+- 11 - Quiz App
 - 12 -
 - 13 -
 - 14 -
