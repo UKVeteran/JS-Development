@@ -50,7 +50,7 @@
 - 50 - Animated Search Bar
 - 51 - Dark and Light Mode 
 - 52 - Type Writing Effect
-- 53 - Custom Progress Bar
+- 53 - Custom Alert Progress Bar
 - 54 - Custom Confirm Dialog Box
 - 55 - Custom Range Slider
 - 56 - Modal with Countdown Event
