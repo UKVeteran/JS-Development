@@ -61,4 +61,3 @@
 - 61 - Exact Age Calculator
 - 62 - Multi-step Form
 - 63 - Pricing Section
-- 64 - Stop Watch
