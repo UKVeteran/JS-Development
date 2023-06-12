@@ -39,7 +39,7 @@
 - 39 - GitHub Profile Search App
 - 40 - Wikipedia Search App
 - 41 - Currency Converter
-- 42 - Product Filter
+- 42 - Movie Listing App
 - 43 - Product Carousel Slider
 - 44 - Vertical Tabs
 - 45 - Count Up App
