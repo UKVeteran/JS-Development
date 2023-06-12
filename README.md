@@ -12,8 +12,8 @@
 - 12 - API Geolocation
 - 13 - Random Quote Generator
 - 14 - Weather App
-- 15 -
-- 16 -
+- 15 - List Search
+- 16 - Date Countdown
 - 17 -
 - 18 -
 - 19 -
