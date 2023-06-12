@@ -23,7 +23,7 @@
 - 23 - Responsive Mobile App
 - 24 - Responsive Mobile Submenu
 - 25 - Page Scroll Indicator
-- 26 - Newsletter Form
+- 26 - Newsletter Form on Scroll
 - 27 - Random Password Generator
 - 28 - To Do App
 - 29 - Notes App
