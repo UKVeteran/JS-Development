@@ -36,7 +36,7 @@
 - 36 - Word Count Tool
 - 37 - Accordion
 - 38 - Random Joke Generator
-- 39 -
+- 39 - GitHub Profile Search App
 - 40 -
 - 41 -
 - 42 -
