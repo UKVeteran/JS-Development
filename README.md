@@ -33,7 +33,7 @@
 - 33 - Weight Converter
 - 34 - Temperature Converter
 - 35 - Running Game
-- 36 -
+- 36 - Word Count Tool
 - 37 -
 - 38 -
 - 39 -
