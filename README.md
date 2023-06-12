@@ -3,7 +3,7 @@
 - 3 - Random Hex Color Generator
 - 4 - Modal Pop-Up
 - 5 - Palindrome Checker
-- 6 -
+- 6 - Vowel Counter App
 - 7 -
 - 8 -
 - 9 -
