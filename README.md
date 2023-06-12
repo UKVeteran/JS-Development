@@ -11,7 +11,7 @@
 - 11 - Quiz App
 - 12 - API Geolocation
 - 13 - Random Quote Generator
-- 14 -
+- 14 - Weather App
 - 15 -
 - 16 -
 - 17 -
