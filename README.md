@@ -4,7 +4,7 @@
 - 4 - Modal Pop-Up
 - 5 - Palindrome Checker
 - 6 - Vowel Counter App
-- 7 -
+- 7 - Click To Copy
 - 8 -
 - 9 -
 - 10 -
