@@ -21,12 +21,14 @@
 - 21 - Active Menu Switcher
 - 22 - Scroll To Top
 - 23 - Responsive Mobile App
-- 24 -
-- 25 -
-- 26 -
-- 27 -
-- 28 -
-- 29 -
-- 30 -
-- 31 -
-- 32 -
+- 24 - Responsive Mobile Submenu
+- 25 - Page Scroll Indicator
+- 26 - Newsletter Form
+- 27 - Random Password Generator
+- 28 - To Do App
+- 29 - Notes App
+- 30 - BMI Calculator
+- 31 - Calculator
+- 32 - Digital Clock
+- 33 - Weight Converter
+- 34 - Temperature Converter
