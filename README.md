@@ -9,8 +9,8 @@
 - 9 - Input Field Character Counter
 - 10 - Internet Connection Status Detector
 - 11 - Quiz App
-- 12 -
-- 13 -
+- 12 - API Geolocation
+- 13 - HTTP Request
 - 14 -
 - 15 -
 - 16 -
