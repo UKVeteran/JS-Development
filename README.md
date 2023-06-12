@@ -38,7 +38,7 @@
 - 38 - Animated Login UI
 - 39 - GitHub Profile Search App
 - 40 - Wikipedia Search App
-- 41 - Image Slider
+- 41 - Currency Converter
 - 42 - Product Filter
 - 43 - Product Carousel Slider
 - 44 - Vertical Tabs
