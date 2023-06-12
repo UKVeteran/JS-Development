@@ -15,6 +15,9 @@
 - 15 - List Search
 - 16 - Date Countdown
 - 17 - Time Countdown
-- 18 -
-- 19 -
-- 20 -
+- 18 - Tip Calculator
+- 19 - Smooth Scroll
+- 20 - Sticky Navigation Bar
+- 21 - Active Menu Switcher
+- 22 - Scroll To Top
+- 23 - Responsive Mobile App
