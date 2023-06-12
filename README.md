@@ -35,7 +35,7 @@
 - 35 - Jumping Game
 - 36 - Word Count Tool
 - 37 - Accordion
-- 38 - Random Joke Generator
+- 38 - Animated Login UI
 - 39 - GitHub Profile Search App
 - 40 - Wikipedia Search App
 - 41 - Image Slider
@@ -47,4 +47,4 @@
 - 47 - Form Validation
 - 48 - Password Visibility
 - 49 - Password Strength Indicator
-- 50 - Login UI
+- 50 - Animated Search Bar
