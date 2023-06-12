@@ -34,8 +34,8 @@
 - 34 - Temperature Converter
 - 35 - Running Game
 - 36 - Word Count Tool
-- 37 -
-- 38 -
+- 37 - Accordion
+- 38 - Random Joke Generator
 - 39 -
 - 40 -
 - 41 -
