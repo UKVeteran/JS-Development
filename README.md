@@ -44,7 +44,7 @@
 - 44 - Vertical Tabs
 - 45 - Count Up App
 - 46 - Digital Piano
-- 47 -
-- 48 -
-- 49 -
-- 50 -
+- 47 - Form Validation
+- 48 - Password Visibility
+- 49 - Password Strength Indicator
+- 50 - Login UI
