@@ -48,3 +48,18 @@
 - 48 - Password Visibility
 - 49 - Password Strength Indicator
 - 50 - Animated Search Bar
+- 51 - Dark and Light Mode 
+- 52 - Type Writing Effect
+- 53 - Custom Progress Bar
+- 54 - Custom Confirm Dialog Box
+- 55 - Custom Range Slider
+- 56 - Modal with Countdown Event
+- 57 - Website Preloader
+- 58 - Testimonial Slider
+- 59 - Tweet Character Counter
+- 60 - Recipe App
+- 61 - Card Payment UI
+- 62 - Exact Age Calculator
+- 63 - Multi-step Form
+- 64 - Pricing Section
+- 65 - Stop Watch
