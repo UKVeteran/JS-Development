@@ -57,9 +57,8 @@
 - 57 - Website Preloader
 - 58 - Testimonial Slider
 - 59 - Tweet Character Counter
-- 60 - Recipe App
-- 61 - Card Payment UI
-- 62 - Exact Age Calculator
-- 63 - Multi-step Form
-- 64 - Pricing Section
-- 65 - Stop Watch
+- 60 - Card Payment UI
+- 61 - Exact Age Calculator
+- 62 - Multi-step Form
+- 63 - Pricing Section
+- 64 - Stop Watch
