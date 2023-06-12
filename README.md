@@ -32,7 +32,7 @@
 - 32 - Digital Clock
 - 33 - Weight Converter
 - 34 - Temperature Converter
-- 35 - Local Storage
+- 35 - Jumping Game
 - 36 - Word Count Tool
 - 37 - Accordion
 - 38 - Random Joke Generator
