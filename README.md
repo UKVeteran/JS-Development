@@ -38,7 +38,7 @@
 - 38 - Random Joke Generator
 - 39 - GitHub Profile Search App
 - 40 - Wikipedia Search App
-- 41 -
+- 41 - Image Slider
 - 42 -
 - 43 -
 - 44 -
