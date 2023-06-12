@@ -1,2 +1,3 @@
 - 1 - Counter App
 - 2 -  Random Number Generator
+- 3 - Random Hex Color Generator
