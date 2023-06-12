@@ -11,7 +11,7 @@
 - 11 - Quiz App
 - 12 - API Geolocation
 - 13 - HTTP Request
-- 14 -
+- 14 - Random Quote Generator
 - 15 -
 - 16 -
 - 17 -
