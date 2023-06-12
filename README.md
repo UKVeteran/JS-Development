@@ -37,7 +37,7 @@
 - 37 - Accordion
 - 38 - Random Joke Generator
 - 39 - GitHub Profile Search App
-- 40 -
+- 40 - Wikipedia Search App
 - 41 -
 - 42 -
 - 43 -
