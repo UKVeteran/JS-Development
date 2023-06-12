@@ -1,8 +1,8 @@
 - 1 - Counter App
 - 2 -  Random Number Generator
 - 3 - Random Hex Color Generator
-- 4 -
-- 5 -
+- 4 - Modal Pop-Up
+- 5 - Palindrome Checker
 - 6 -
 - 7 -
 - 8 -
