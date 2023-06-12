@@ -10,8 +10,8 @@
 - 10 - Internet Connection Status Detector
 - 11 - Quiz App
 - 12 - API Geolocation
-- 13 - HTTP Request
-- 14 - Random Quote Generator
+- 13 - Random Quote Generator
+- 14 -
 - 15 -
 - 16 -
 - 17 -
